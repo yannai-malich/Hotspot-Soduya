@@ -1,4 +1,4 @@
-# HackAU 2019 - Soduya
+#Hotdpot - Soduya
 ### First offer:
 * program that will run on Hot-Spot, and will get the students in the class, by their phone's mac address. 
 ### UI - connect. take: 
